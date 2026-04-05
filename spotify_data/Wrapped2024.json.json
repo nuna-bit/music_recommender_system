@@ -1,0 +1,93 @@
+{
+  "topArtists" : {
+    "numUniqueArtists" : 1509,
+    "topArtists" : [ {
+      "artistUri" : "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    }, {
+      "artistUri" : "spotify:artist:59oA5WbbQvomJz2BuRG071"
+    }, {
+      "artistUri" : "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    }, {
+      "artistUri" : "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+    }, {
+      "artistUri" : "spotify:artist:0QJIPDAEDILuo8AIq3pMuU"
+    } ],
+    "topArtistMilliseconds" : 63379577,
+    "topArtistFanPercentage" : 0.020595437
+  },
+  "topPodcasts" : {
+    "topPodcastsUri" : [ "spotify:show:5qrDv6O8ON44pXR70z4lPz", "spotify:show:3skDSKvB1twtAxgLh0645y" ],
+    "topPodcastMilliseconds" : 19844050,
+    "topPodcastPercentage" : 0.0,
+    "totalPodcastMilliseconds" : 63761437
+  },
+  "topTracks" : {
+    "topTracks" : [ "spotify:track:5b3XJ1pjrHO5JtY2PcTjnI", "spotify:track:4OMJGnvZfDvsePyCwRGO7X", "spotify:track:2KnuaZYoGzDoHiBTNYOTXG", "spotify:track:6AI3ezQ4o3HUoP6Dhudph3", "spotify:track:1hAloWiinXLPQUJxrJReb1" ],
+    "topTrackPlayCount" : 93,
+    "topTrackFirstPlayedDate" : "2024-07-11",
+    "distinctTracksPlayed" : 2745
+  },
+  "yearlyMetrics" : {
+    "totalMsListened" : 1730237686,
+    "mostListenedDay" : "2024-09-25",
+    "mostListenedDayMinutes" : 363.1966,
+    "percentGreaterThanWorldwideUsers" : 88.30354
+  },
+  "musicEvolution" : {
+    "eras" : [ {
+      "key" : "0",
+      "peakMonth" : 1,
+      "color" : "red-green",
+      "genre" : "anime",
+      "mood" : "mangas",
+      "descriptor" : "shonen",
+      "pivotalArtists" : [ "spotify:artist:151w10AZKmL4a6iPwgxap3", "spotify:artist:1snhtMLeb2DYoMOcVbb8iB", "spotify:artist:64mecceQewFCKwCK6JBW0o" ],
+      "tracks" : [ {
+        "trackName" : "Shiki no Uta",
+        "trackUri" : "spotify:track:3IYPLyQDgCJsyRgJ1NWWGv"
+      }, {
+        "trackName" : "KICK BACK",
+        "trackUri" : "spotify:track:3khEEPRyBeOUabbmOPJzAG"
+      }, {
+        "trackName" : "One Last Kiss",
+        "trackUri" : "spotify:track:6DaKMsQDmHMJbKYyU7AUFA"
+      } ]
+    }, {
+      "key" : "1",
+      "peakMonth" : 7,
+      "color" : "red-green",
+      "genre" : "hip hop",
+      "mood" : "boujee",
+      "descriptor" : "clean rap",
+      "pivotalArtists" : [ "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg", "spotify:artist:2LIk90788K0zvyj2JJVwkJ", "spotify:artist:3TVXtAsR1Inumwj472S9r4" ],
+      "tracks" : [ {
+        "trackName" : "Not Like Us",
+        "trackUri" : "spotify:track:6AI3ezQ4o3HUoP6Dhudph3"
+      }, {
+        "trackName" : "One Dance",
+        "trackUri" : "spotify:track:1zi7xx7UVEFkmKfv06H8x0"
+      }, {
+        "trackName" : "See You Again (feat. Kali Uchis)",
+        "trackUri" : "spotify:track:7KA4W4McWYRpgf0fWsJZWB"
+      } ]
+    }, {
+      "key" : "2",
+      "peakMonth" : 10,
+      "color" : "red",
+      "genre" : "pop",
+      "mood" : "pink pilates princess",
+      "descriptor" : "roller skating",
+      "pivotalArtists" : [ "spotify:artist:6M2wZ9GZgrQXHCFfjv46we", "spotify:artist:74KM79TiuVKeVCqs8QtB0B", "spotify:artist:26dSoYclwsYLMAKD3tpOr4" ],
+      "tracks" : [ {
+        "trackName" : "Houdini",
+        "trackUri" : "spotify:track:4OMJGnvZfDvsePyCwRGO7X"
+      }, {
+        "trackName" : "Training Season",
+        "trackUri" : "spotify:track:6Qb7YsAqH4wWFUMbGsCpap"
+      }, {
+        "trackName" : "Espresso",
+        "trackUri" : "spotify:track:2qSkIjg1o9h3YT9RAgYN75"
+      } ]
+    } ]
+  }
+}
