@@ -1,4 +1,4 @@
-# Spotify Music Recommender System
+# Spotify Music Recommender
 
 ## Overview
 The **Spotify Music Recommender System** is a personalized tool designed to help you discover new artists based on your actual listening habits. By analyzing your Spotify streaming history up to the **last 6 months**, the system identifies your top artists and utilizes curated music data to find exciting new recommendations that match your musical taste!
