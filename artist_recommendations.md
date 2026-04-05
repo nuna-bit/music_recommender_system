@@ -4,7 +4,7 @@ Based on your Spotify listening history from the past 6 months, here are some ne
 
 ### 1. Khalid (Popularity: 83)
 - **Genres**: Unknown genres
-- **Because you like**: Beyoncé, Billie Eilish
+- **Because you like**: Billie Eilish, Beyoncé
 - **Listen**: [Spotify Link](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny)
 
 ### 2. Myles Smith (Popularity: 76)
