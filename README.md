@@ -50,6 +50,7 @@ The system successfully navigated the "cold-start" problem, identifying artists 
 - Vector alignment: candidates were scored against the user taste profile.
 
 **The "focus lens" effect**
+
 ![Global Profile screenshot](global_profile.png) 
 ![Refined Profile screenshot](refined_profile.png)
 By shifting the model from a global average to a refined taste profile (averaging only the Top 10 artists), the recommendation confidence nearly doubled:
