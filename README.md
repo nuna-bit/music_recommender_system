@@ -1,5 +1,6 @@
 # Musical DNA: Content-based recommender
 An unsupervised machine learning pipeline that transforms Spotify streaming history into a high-dimensional "taste profile" to discover underground hidden gems.
+Live demo: [My Musical DNA Explorer](https://musicrecommendersystem-6mvtamxjtkkkeuhrjpgqm6.streamlit.app/)
 
 ## The mission
 Instead of relying on what's "trending" globally, this tool uses **cosine similarity** and **feature scaling** to find artists that **mathematically match your specific listening habits**. It specifically focuses on finding "Hidden Gems"—artists with high personal compatibility but low global popularity.
