@@ -1,0 +1,12 @@
+# Security & Credentials
+.env
+.cache
+
+# Privacy
+spotify_data/
+*.json
+
+# Python/IDE junk
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
